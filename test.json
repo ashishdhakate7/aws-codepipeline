@@ -3,7 +3,7 @@
     "containerDefinitions": [
         {
             "name": "nginx",
-            "image": "httpd",
+            "image": "nginx",
             "cpu": 0,
             "portMappings": [
                 {
