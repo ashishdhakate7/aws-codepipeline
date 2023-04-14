@@ -33,7 +33,7 @@
     "family": "clinicapp",
     "executionRoleArn": "arn:aws:iam::675467602881:role/ecsTaskExecutionRole",
     "networkMode": "awsvpc",
-    "revision": 1,
+    "revision": 2,
     "volumes": [],
     "status": "ACTIVE",
     "requiresAttributes": [
