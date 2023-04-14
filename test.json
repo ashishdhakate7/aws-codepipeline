@@ -1,6 +1,6 @@
 [
   {
     "name": "nginx",
-    "imageUri": "nginx"
+    "imageUri": "nginx:stable-perl"
   }
 ]
