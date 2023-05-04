@@ -3,3 +3,7 @@ Use this sample when creating a simple pipeline in AWS CodePipeline while follow
 
 
 ![image](https://user-images.githubusercontent.com/30265796/236084077-f4246f47-172b-4985-9e22-4b2d5c9a65df.png)
+
+
+
+https://aws.amazon.com/blogs/devops/implementing-gitflow-using-aws-codepipeline-aws-codecommit-aws-codebuild-and-aws-codedeploy/
